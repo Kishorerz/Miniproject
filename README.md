@@ -67,7 +67,10 @@ path_lab_library.png
 ```
 
 ---
-
+## Output
+![alt text](<Screenshot 2025-12-16 231732.png>)
+![alt text](<Screenshot 2025-12-16 000658.png>)
+![alt text](<Screenshot 2025-12-16 000942.png>)
 ## 💡 Future Enhancements
 
 * Live route drawing (SVG lines)
